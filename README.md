@@ -1,2 +1,0 @@
-# TypeScriptAndReact
-Created with CodeSandbox
